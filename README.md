@@ -42,3 +42,25 @@ git format-patch origin/master --stdout > seu_nome.patch
 ## Dúvidas
 
 Entre em contato e nos questione.
+
+
+
+## INFORMAÇÕES PESSOAIS
+RENATO YOITI OTA MORI
+IROMATO@GMAIL.COM
+991809166
+
+## PASSOS QUE EXECUTEI
+
+* Criei uma conta no GCP
+* habilitei as portas 8080 e 8000 no firewal do http
+* Criar uma máquina Linux
+* Instalar docker
+* Clone do repositorio enviado bitbucket
+* Clonado para meu proprio repositorio GITHUB
+* Alteração do post da aplicação no arquivo frontend.py para a comunicação do front com o back
+* Criação do Dockerfile para frontend e backend estão no repositorio
+* Criação de shell script para build e start do docker start.sh e start-back.sh
+* Acessar a url http://35.222.114.172:8000/ para validação deixarei a máquina ligado, mas por favor avisar o quanto antes para poder desligar ela.
+
+
