@@ -61,6 +61,6 @@ IROMATO@GMAIL.COM
 * Alteração do post da aplicação no arquivo frontend.py para a comunicação do front com o back
 * Criação do Dockerfile para frontend e backend estão no repositorio
 * Criação de shell script para build e start do docker start.sh e start-back.sh
-* Acessar a url http://35.222.114.172:8000/ para validação deixarei a máquina ligado, mas por favor avisar o quanto antes para poder desligar ela.
+* Acessar a url http://34.67.96.69:8000/ para validação deixarei a máquina ligado, mas por favor avisar o quanto antes para poder desligar ela.
 
 
